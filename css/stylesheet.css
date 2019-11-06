@@ -1,0 +1,27 @@
+.clg{
+    background-color: lightgrey;
+    border: solid 1px black;
+}
+
+.bg-jamia{background-color:#17202A;
+		
+}
+
+.urdufont{
+    font-family: Arial;
+    
+}
+
+.carousel-inner img {
+       
+  top: 0;
+  left: 0;
+    loop:true;
+    width: 1400px;
+    height: 600px;
+  }
+
+
+.carousel-inner h1, p{
+font-family: Arial;
+}
